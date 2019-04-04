@@ -3,8 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class All
-	// mehdi
-	// khaled
+//welcome
 {
 	//==========================================
 	//	
