@@ -1,13 +1,8 @@
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
-
-public class All
-//Mehdi
+public class All				
 {
-	//==========================================
-	//	
-	//==========================================
 	public static void main(String[] args) throws IOException 
 	{
 		CNF cnf	=	new	CNF();
@@ -61,11 +56,5 @@ public class All
 					System.out.println("ce choix n'existe plus");
 			}
 		}while(true);	
-		
-		
-		
-		
-	}
-	
-	
+	}	
 }
