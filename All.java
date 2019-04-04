@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class All
 //Khaled2
+// new branch
 {
 	//==========================================
 	//	
